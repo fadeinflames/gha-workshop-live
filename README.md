@@ -6,9 +6,9 @@
 
 [![Матричное тестирование](https://github.com/fadeinflames/gha-workshop-live/actions/workflows/matrix.yaml/badge.svg)](https://github.com/fadeinflames/gha-workshop-live/actions/workflows/matrix.yaml)
 
-[![Production CI/CD](https://github.com/fadeinflames/gha-workshop-live/actions/workflows/04-production.yml/badge.svg)](https://github.com/fadeinflames/gha-workshop-live/actions/workflows/04-production.yml)
+[![Production CI/CD](https://github.com/fadeinflames/gha-workshop-live/actions/workflows/production.yaml/badge.svg)](https://github.com/fadeinflames/gha-workshop-live/actions/workflows/production.yaml)
 
-[![Продвинутые возможности](https://github.com/fadeinflames/gha-workshop-live/actions/workflows/05-advanced.yml/badge.svg)](https://github.com/fadeinflames/gha-workshop-live/actions/workflows/05-advanced.yml)
+[![Продвинутые возможности](https://github.com/fadeinflames/gha-workshop-live/actions/workflows/advanced.yaml/badge.svg)](https://github.com/fadeinflames/gha-workshop-live/actions/workflows/advanced.yaml)
 
 Учебный проект для демонстрации возможностей GitHub Actions в курсе DevOps.
 
