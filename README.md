@@ -1,6 +1,6 @@
 # GitHub Actions Workshop - Calculator API
 
-[![Базовый CI](https://github.com/fadeinflames/gha-workshop-live/actions/workflows/basic.yml/badge.svg)](https://github.com/fadeinflames/gha-workshop-live/actions/workflows/basic.yml)
+[![Базовый CI](https://github.com/fadeinflames/gha-workshop-live/actions/workflows/basic.yaml/badge.svg)](https://github.com/fadeinflames/gha-workshop-live/actions/workflows/basic.yaml)
 
 [![CI с тестированием](https://github.com/fadeinflames/gha-workshop-live/actions/workflows/02-testing.yml/badge.svg)](https://github.com/fadeinflames/gha-workshop-live/actions/workflows/02-testing.yml)
 
