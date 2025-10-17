@@ -2,7 +2,7 @@
 
 [![Базовый CI](https://github.com/fadeinflames/gha-workshop-live/actions/workflows/basic.yaml/badge.svg)](https://github.com/fadeinflames/gha-workshop-live/actions/workflows/basic.yaml)
 
-[![CI с тестированием](https://github.com/fadeinflames/gha-workshop-live/actions/workflows/testing.yml/badge.svg)](https://github.com/fadeinflames/gha-workshop-live/actions/workflows/testing.yml)
+[![CI с тестированием](https://github.com/fadeinflames/gha-workshop-live/actions/workflows/testing.yaml/badge.svg)](https://github.com/fadeinflames/gha-workshop-live/actions/workflows/testing.yaml)
 
 [![Матричное тестирование](https://github.com/fadeinflames/gha-workshop-live/actions/workflows/03-matrix.yml/badge.svg)](https://github.com/fadeinflames/gha-workshop-live/actions/workflows/03-matrix.yml)
 
