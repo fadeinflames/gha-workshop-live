@@ -1,14 +1,14 @@
 # GitHub Actions Workshop - Calculator API
 
-[![Базовый CI](https://github.com/fadeinflames/github-actions-workshop/actions/workflows/01-basic.yml/badge.svg)](https://github.com/fadeinflames/github-actions-workshop/actions/workflows/01-basic.yml)
+[![Базовый CI](https://github.com/fadeinflames/gha-workshop-live/actions/workflows/01-basic.yml/badge.svg)](https://github.com/fadeinflames/gha-workshop-live/actions/workflows/01-basic.yml)
 
-[![CI с тестированием](https://github.com/fadeinflames/github-actions-workshop/actions/workflows/02-testing.yml/badge.svg)](https://github.com/fadeinflames/github-actions-workshop/actions/workflows/02-testing.yml)
+[![CI с тестированием](https://github.com/fadeinflames/gha-workshop-live/actions/workflows/02-testing.yml/badge.svg)](https://github.com/fadeinflames/gha-workshop-live/actions/workflows/02-testing.yml)
 
-[![Матричное тестирование](https://github.com/fadeinflames/github-actions-workshop/actions/workflows/03-matrix.yml/badge.svg)](https://github.com/fadeinflames/github-actions-workshop/actions/workflows/03-matrix.yml)
+[![Матричное тестирование](https://github.com/fadeinflames/gha-workshop-live/actions/workflows/03-matrix.yml/badge.svg)](https://github.com/fadeinflames/gha-workshop-live/actions/workflows/03-matrix.yml)
 
-[![Production CI/CD](https://github.com/fadeinflames/github-actions-workshop/actions/workflows/04-production.yml/badge.svg)](https://github.com/fadeinflames/github-actions-workshop/actions/workflows/04-production.yml)
+[![Production CI/CD](https://github.com/fadeinflames/gha-workshop-live/actions/workflows/04-production.yml/badge.svg)](https://github.com/fadeinflames/gha-workshop-live/actions/workflows/04-production.yml)
 
-[![Продвинутые возможности](https://github.com/fadeinflames/github-actions-workshop/actions/workflows/05-advanced.yml/badge.svg)](https://github.com/fadeinflames/github-actions-workshop/actions/workflows/05-advanced.yml)
+[![Продвинутые возможности](https://github.com/fadeinflames/gha-workshop-live/actions/workflows/05-advanced.yml/badge.svg)](https://github.com/fadeinflames/gha-workshop-live/actions/workflows/05-advanced.yml)
 
 Учебный проект для демонстрации возможностей GitHub Actions в курсе DevOps.
 
