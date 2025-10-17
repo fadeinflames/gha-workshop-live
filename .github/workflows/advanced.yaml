@@ -143,5 +143,5 @@ jobs:
         timeout-minutes: 5
         run: |
           echo "Эта задача не может выполняться дольше 5 минут"
-          sleep 2
+          sleep 2000000000
           echo "Готово!"
